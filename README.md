@@ -1,6 +1,6 @@
 # how-to-illustrate
 
-A Claude / agent skill: a mandatory router for **any** request to draw, illustrate, diagram, chart, graph, visualize, or map something.
+An AI / agent skill: a mandatory router for **any** request to draw, illustrate, diagram, chart, graph, visualize, or map something.
 
 It gives an agent a comprehensive diagram-type taxonomy (90+ types across processes, hierarchies, networks, data, science, logic, and more), a tool-selection framework (e.g. Excalidraw / tldraw / penecho, or whatever diagramming tools you have available), and a non-negotiable **interactivity-and-animation mandate** — so agents stop defaulting to a wall of prose or a static box diagram when a real, live visualization is what the user actually wants.
 
