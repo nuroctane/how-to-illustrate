@@ -2,7 +2,7 @@
 
 An AI / agent skill: a mandatory router for **any** request to draw, illustrate, diagram, chart, graph, visualize, or map something.
 
-It gives an agent a comprehensive diagram-type taxonomy (90+ types across processes, hierarchies, networks, data, science, logic, and more), a tool-selection framework (e.g. Excalidraw / tldraw / penecho, or whatever diagramming tools you have available), and a non-negotiable **interactivity-and-animation mandate** — so agents stop defaulting to a wall of prose or a static box diagram when a real, live visualization is what the user actually wants.
+It gives an agent an exhaustive diagram-type taxonomy — 30+ categories and 200+ named types spanning processes, hierarchies, networks, business strategy, science, engineering, finance, UX, sports, music, and more — each with what it depicts, its structural anatomy, and when to reach for it over a near-neighbor type, a tool-selection framework (e.g. Excalidraw / tldraw / penecho, or whatever diagramming tools you have available), and a non-negotiable **interactivity-and-animation mandate** — so agents stop defaulting to a wall of prose or a static box diagram when a real, live visualization is what the user actually wants.
 
 ## Why
 
@@ -18,7 +18,7 @@ This skill fixes all three by giving the agent a checklist to run through before
 
 `SKILL.md` walks the agent through four steps:
 
-1. **Pick the right diagram type** — matched against categories like Processes & Workflows, Hierarchies & Structures, Networks & Relationships, Data & Statistics, Science & Technical, and Logic & Computation.
+1. **Pick the right diagram type** — matched against 30+ categories (Processes & Workflows, Structures & Hierarchies, Relationships & Logic, Cybersecurity & Networks, Biological & Life Sciences, Chemistry, Physics & Astronomy, Linguistics & Social Sciences, Business & Strategy, Comparison & Ranking, Trends Over Time, Part-to-Whole, Distribution & Range, Correlation, Flow & Spatial, Product/UX, Manufacturing & Engineering, Finance & Economics, Environmental Science, Music & Audio, Sports & Games, Legal & Governance, Data Science & ML, Genealogy, and more), each type described in depth rather than as a one-line label.
 2. **Pick the right tool** — a router for whichever diagramming/canvas tools are available in your environment.
 3. **Apply the interactivity/animation mandate** — if the chosen tool supports click-to-reveal, animated sequences, or bound/interactive elements, use them whenever even remotely useful.
 4. **Execute** — actually build and open the result; never stop at "here's what I'd draw."
