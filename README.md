@@ -25,7 +25,7 @@ This skill fixes all three by giving the agent a checklist to run through before
 
 ## Using it
 
-This follows the standard [Agent Skills](https://www.anthropic.com/news/agent-skills) format — a `SKILL.md` with YAML frontmatter (`name`, `description`) that any compatible agent (Claude Code, Claude in general, or another skill-aware harness) can discover and load.
+This follows the standard [Agent Skills](https://www.anthropic.com/news/agent-skills) format — a `SKILL.md` with YAML frontmatter (`name`, `description`) that any compatible agent (Claude Code, Grok Build, Codex, Hermes, in general, or another skill-aware harness) can discover and load.
 
 Drop `SKILL.md` into your skills directory (e.g. `~/.claude/skills/how-to-illustrate/` or your agent's equivalent) and it activates automatically whenever a request matches its description.
 
